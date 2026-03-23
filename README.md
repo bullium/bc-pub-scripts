@@ -13,7 +13,7 @@ Bash scripts repository for system administration, security assessment, and moni
 
 ```bash
 # Clone the repository
-git clone ssh://git@github.com/bullium/bc-pub-scripts.git
+git clone https://git@github.com/bullium/bc-pub-scripts.git
 cd scripts
 
 # Set up development environment (git hooks, verify dependencies)
