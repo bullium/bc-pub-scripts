@@ -49,6 +49,21 @@ See [CONTRIBUTE.md](CONTRIBUTE.md) for code style, branching, and testing guidel
 | [CONTRIBUTE.md](CONTRIBUTE.md) | Code style, branching, testing, PR process |
 | [CHANGELOG.md](CHANGELOG.md) | Version history (Keep a Changelog format) |
 | [LICENSE](LICENSE) | Apache 2.0 License |
+| [docs/usage.md](docs/usage.md) | General usage examples |
+
+## Testing
+
+Tests use [BATS (Bash Automated Testing System)](https://github.com/bats-core/bats-core).
+
+```bash
+# Run the full suite
+bats tests/bats/
+
+# Run PVE tests only
+bats tests/bats/pve.bats
+```
+
+See [tests/README.md](tests/README.md) for setup and how to write new tests.
 
 ---
 
