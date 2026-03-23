@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 ###############################################################################
 # Script Name: pve_storage_check.sh
 # Description: Checks storage status and usage on Proxmox nodes.

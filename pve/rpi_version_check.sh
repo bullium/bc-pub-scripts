@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 ###############################################################################
 # Script Name: rpi_version_check.sh
 # Description: Displays the Raspberry Pi model information.

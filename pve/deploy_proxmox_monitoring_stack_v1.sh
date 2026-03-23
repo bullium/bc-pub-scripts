@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 ###############################################################################
 # Script Name: deploy_proxmox_monitoring_stack-v1.sh
 # Description: Deploys InfluxDB 2.x and Grafana 10.x for Proxmox monitoring with secure credentials.

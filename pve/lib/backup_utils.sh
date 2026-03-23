@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 ###############################################################################
 # Script Name: backup_utils.sh
 # Description: Shared backup utilities for Proxmox VE configuration backups

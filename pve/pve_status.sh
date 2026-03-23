@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 ###############################################################################
 # Script Name: pve_status.sh
 # Description: Generates a formatted system configuration and service status report for Proxmox VE nodes.

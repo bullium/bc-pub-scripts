@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 ###############################################################################
 # Script Name: pveq_config_backup_nfs.sh
 # Description: Backs up Proxmox QDevice configuration files to NFS share

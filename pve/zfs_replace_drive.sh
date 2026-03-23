@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 #
 # zfs-replace-drive.sh — Automated ZFS mirror drive replacement for Proxmox
 #

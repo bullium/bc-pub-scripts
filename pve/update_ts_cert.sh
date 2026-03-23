@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2024-2026 Bullium Consulting
 ###############################################################################
 # Script Name: update_ts_cert.sh
 # Description: Updates and rotates the Tailscale TLS certificate on a
