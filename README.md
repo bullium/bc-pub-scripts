@@ -12,7 +12,7 @@ Bash scripts repository for system administration, security assessment, and moni
 
 ```bash
 # Clone the repository
-GIT_SSH_COMMAND="ssh -p 2222" git clone ssh://git@100.101.73.49:2222/Bullium-Consulting/bc-scripts-public.git
+git clone https://github.com/bullium/bc-pub-scripts
 cd bc-scripts-public
 
 # Set up development environment (git hooks, verify dependencies)
