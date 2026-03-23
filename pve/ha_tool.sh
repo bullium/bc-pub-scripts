@@ -10,6 +10,11 @@
 #
 # Usage: ./ha_tool.sh [status|stop|start]
 #
+#
+# Author: Will Bradshaw (Bullium Consulting) <wbradshaw@bullium.com>
+# Version: 1.0
+# Support: support@bullium.com
+###############################################################################
 # ==============================================================================
 
 # --- Script Configuration ---
